@@ -10,10 +10,8 @@ Software is like sex; it's better when it's free.  —— Linus Torvalds (Linux�
 
 以前都是在利用互联网上别人分享的知识，如今，我也想分享一些我在学习过程中的一些思考与心得。
 
- 
-
 现在的想法是分享以下知识：
 
-- 关于编程语言（java为主）
+- 关于**编程语言**（java为主）
 
-- 关于web开发
+- 关于**web开发**
