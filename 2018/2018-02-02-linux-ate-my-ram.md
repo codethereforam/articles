@@ -2,9 +2,9 @@
 
 ![Linux ate my ram](/images/2018-02-02-linux-ate-my-ram-01.png)
 
-> 英文原文: https://www.linuxatemyram.com/
-> 作者: [Vidar Holen](https://github.com/koalaman)
-> 译者: [thinkam](https://github.com/codethereforam)
+> 英文原文: https://www.linuxatemyram.com/  
+> 作者: [Vidar Holen](https://github.com/koalaman)  
+> 译者: [thinkam](https://github.com/codethereforam)  
 
 ## 发生了什么？
 
