@@ -34,3 +34,5 @@
 安装开源软件[gister](https://github.com/weakish/gister)，该软件依赖[gist](https://github.com/defunkt/gist)，按照REAMDE安装这两个，此外还依赖curl、git、jq。下面列举一些要注意的东西：
 - 要先初始化好Git，然后上传公钥，要确保能通过ssh访问GitHub
 - 若Gist无法访问，可以安装[proxychains-ng](https://github.com/rofl0r/proxychains-ng)，使用代理执行命令
+
+> 最后，附上我的Gist地址：[codethereforam's gists](https://gist.github.com/codethereforam/)
